@@ -1,0 +1,11 @@
+D:\1618\asm2_1618\asm2_1618\obj\Debug\asm2_1618.csproj.AssemblyReference.cache
+D:\1618\asm2_1618\asm2_1618\obj\Debug\asm2_1618.PhieuDatPhong.resources
+D:\1618\asm2_1618\asm2_1618\obj\Debug\asm2_1618.Properties.Resources.resources
+D:\1618\asm2_1618\asm2_1618\obj\Debug\asm2_1618.csproj.GenerateResource.cache
+D:\1618\asm2_1618\asm2_1618\obj\Debug\asm2_1618.csproj.CoreCompileInputs.cache
+D:\1618\asm2_1618\asm2_1618\bin\Debug\asm2_1618.exe.config
+D:\1618\asm2_1618\asm2_1618\bin\Debug\asm2_1618.exe
+D:\1618\asm2_1618\asm2_1618\bin\Debug\asm2_1618.pdb
+D:\1618\asm2_1618\asm2_1618\obj\Debug\asm2_1618.exe
+D:\1618\asm2_1618\asm2_1618\obj\Debug\asm2_1618.pdb
+D:\1618\asm2_1618\asm2_1618\obj\Debug\asm2_1618.HeThong.resources
